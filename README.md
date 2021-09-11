@@ -14,9 +14,9 @@
   + [載點](https://chromedriver.chromium.org/downloads)
 
 ## 操作
+- 此程式只負責"加選"，要先關注
 - 在 main.ipynb 
     + 先在第2個區塊分別對 account、password 那兩行的空字串打上帳號密碼
-    + register() 只負責"加選"，關注要先自己點好
     + 最下方的 while True "最後"再執行，確定要加選的都關注了，在可以點選登記的頁面執行這段，就會不斷去加選
     + 由上往下依序執行
 - 執行 while True之後 就會自動重複登記
