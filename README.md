@@ -10,7 +10,7 @@
 - python - 3.8.8
   + tensorflow - 2.6.0 (注意)
   + selenium - 3.141.0
-- chromedriver - 92.0.4515.107
+- chromedriver - **必須與自身 chrome 瀏覽器版本相同**
   + [載點](https://chromedriver.chromium.org/downloads)
 
 ## 操作
